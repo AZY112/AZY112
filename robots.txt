@@ -1,6 +1,6 @@
-```text
+
 User-agent: *
 Allow: /
 
 Sitemap: https://azy112.github.io/AZY112/sitemap.xml
-```
+
